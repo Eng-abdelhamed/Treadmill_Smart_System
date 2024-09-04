@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 47676b0c7e3966bebed78da828578f2e3c426cc7
                                                          "# Treadmill_Smart_System" 
 /**********************************************************************************************************************************************/
 💡 Technologies and Tools Used:
@@ -9,5 +13,9 @@ Port and Pin Management: Configured various I/O ports and pins for motor control
 /**********************************************************************************************************************************************/
 🛠 Challenges and Learnings:
 During this project, I deepened my understanding of handling real-time interrupts and effectively managing hardware timers. The integration of sensor data with motor control added complexity but also provided valuable experience in developing responsive embedded systems.
+<<<<<<< HEAD
 
 /**********************************************************************************************************************************************/
+=======
+/**********************************************************************************************************************************************/
+>>>>>>> 47676b0c7e3966bebed78da828578f2e3c426cc7
